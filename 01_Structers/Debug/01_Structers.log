@@ -1,0 +1,3 @@
+﻿  main.c
+D:\STM32_ARGE\stm32_register\C_EXAMPLE\01_Structers\main.c(3,8): warning C4081: 'tanımlayıcı' bekleniyordu; '(' bulundu
+  01_Structers.vcxproj -> D:\STM32_ARGE\stm32_register\C_EXAMPLE\01_Structers\Debug\01_Structers.exe
