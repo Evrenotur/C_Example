@@ -1,3 +1,0 @@
-﻿  main.c
-D:\STM32_ARGE\stm32_register\C_EXAMPLE\02_02_Structers_Initalize_Variable_crpy\main.c(4,8): warning C4081: 'tanımlayıcı' bekleniyordu; '(' bulundu
-  02_02_Structers_Initalize_Variable_crpy.vcxproj -> D:\STM32_ARGE\stm32_register\C_EXAMPLE\02_02_Structers_Initalize_Variable_crpy\Debug\02_02_Structers_Initalize_Variable_crpy.exe
