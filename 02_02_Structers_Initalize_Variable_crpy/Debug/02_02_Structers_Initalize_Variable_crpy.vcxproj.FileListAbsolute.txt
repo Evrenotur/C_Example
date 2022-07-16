@@ -1,0 +1,1 @@
+D:\STM32_ARGE\stm32_register\C_EXAMPLE\02_02_Structers_Initalize_Variable_crpy\Debug\02_02_Structers_Initalize_Variable_crpy.exe
