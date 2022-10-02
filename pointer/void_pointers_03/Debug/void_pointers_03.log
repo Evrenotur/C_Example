@@ -1,0 +1,4 @@
+﻿  main.c
+D:\STM32_ARGE\stm32_register\C_EXAMPLE\void_pointers_03\main.c(27,10): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'int *'
+D:\STM32_ARGE\stm32_register\C_EXAMPLE\void_pointers_03\main.c(39,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+  void_pointers_03.vcxproj -> D:\STM32_ARGE\stm32_register\C_EXAMPLE\void_pointers_03\Debug\void_pointers_03.exe

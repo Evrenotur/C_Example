@@ -1,1 +1,3 @@
-﻿  void_pointers_01.vcxproj -> D:\STM32_ARGE\stm32_register\C_EXAMPLE\C_Example\pointer\void_pointers_01\Debug\void_pointers_01.exe
+﻿  void_pointers.c
+D:\STM32_ARGE\stm32_register\C_EXAMPLE\C_Example\pointer\void_pointers_01\void_pointers.c(11,7): warning C4101: 'c': yerel değişken başvurusu kaldırıldı
+  void_pointers_01.vcxproj -> D:\STM32_ARGE\stm32_register\C_EXAMPLE\C_Example\pointer\void_pointers_01\Debug\void_pointers_01.exe

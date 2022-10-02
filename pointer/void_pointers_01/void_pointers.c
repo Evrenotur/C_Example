@@ -12,7 +12,11 @@ int main()
 
 	void* ptr = &x;
 
-	printf("%d", *(int *)ptr);
+	int* ptrr = &y;
+
+	*ptrr = 60;
+	printf("%d", *ptrr);
+	//printf("%d", *(int *)ptr);
 
 	return 0;
 }
