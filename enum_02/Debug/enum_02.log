@@ -1,0 +1,9 @@
+﻿  main.c
+D:\STM32_ARGE\stm32_register\C_EXAMPLE\enum_02\main.c(3,8): warning C4081: 'tanımlayıcı' bekleniyordu; '(' bulundu
+D:\STM32_ARGE\stm32_register\C_EXAMPLE\enum_02\main.c(20,9): warning C4013: 'Printf' tanımsız; int döndüren extern olduğu varsayılıyor
+D:\STM32_ARGE\stm32_register\C_EXAMPLE\enum_02\main.c(20,10): warning C4566: '\u0131' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1252) temsil gösterilemiyor
+D:\STM32_ARGE\stm32_register\C_EXAMPLE\enum_02\main.c(23,10): warning C4566: '\u0131' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1252) temsil gösterilemiyor
+D:\STM32_ARGE\stm32_register\C_EXAMPLE\enum_02\main.c(26,10): warning C4566: '\u0131' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1252) temsil gösterilemiyor
+D:\STM32_ARGE\stm32_register\C_EXAMPLE\enum_02\main.c(29,10): warning C4566: '\u0131' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1252) temsil gösterilemiyor
+main.obj : error LNK2019: çözümlenmemiş dış sembol _Printf için _main işlevinde başvuruldu
+D:\STM32_ARGE\stm32_register\C_EXAMPLE\enum_02\Debug\enum_02.exe : fatal error LNK1120: 1 çözümlenmemiş dışlar

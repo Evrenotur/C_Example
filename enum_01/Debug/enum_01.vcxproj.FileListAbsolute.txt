@@ -1,0 +1,1 @@
+D:\STM32_ARGE\stm32_register\C_EXAMPLE\enum_01\Debug\enum_01.exe

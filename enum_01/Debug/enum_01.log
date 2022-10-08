@@ -1,0 +1,3 @@
+﻿  main.c
+D:\STM32_ARGE\stm32_register\C_EXAMPLE\enum_01\main.c(3,8): warning C4081: 'tanımlayıcı' bekleniyordu; '(' bulundu
+  enum_01.vcxproj -> D:\STM32_ARGE\stm32_register\C_EXAMPLE\enum_01\Debug\enum_01.exe
