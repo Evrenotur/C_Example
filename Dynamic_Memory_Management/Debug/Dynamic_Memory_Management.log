@@ -1,0 +1,3 @@
+﻿  main.c
+D:\STM32_ARGE\stm32_register\C_EXAMPLE\Dynamic_Memory_Management\main.c(4,8): warning C4081: 'tanımlayıcı' bekleniyordu; '(' bulundu
+  Dynamic_Memory_Management.vcxproj -> D:\STM32_ARGE\stm32_register\C_EXAMPLE\Dynamic_Memory_Management\Debug\Dynamic_Memory_Management.exe
